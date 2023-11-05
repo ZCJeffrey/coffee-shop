@@ -5,6 +5,40 @@
     }
     .logo2{
         width: 30%;
-        height: 60%;
+        height: 40%;
+    }
+    .buynow{
+        width: 56%;
+    line-height: 10%;
+    position: absolute;
+    top: 55%;
+    left: 13%;
+   
     }
 }
+
+@media (min-width: 375px){
+    .logo{
+        width: 3%;
+        height: 2%;
+    }
+    .logo2{
+        width: 30%;
+        height: 20%;
+    }
+    .buynow{
+        width: 56%;
+    line-height: 10%;
+    position: absolute;
+    top: 37%;
+    left: 13%;
+   
+    }
+    .premium{
+        position: absolute;
+        top: 180px;
+    }
+}
+
+
+
