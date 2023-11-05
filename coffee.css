@@ -1,0 +1,82 @@
+* {
+  background-color: #37251b;
+}
+
+a:hover {
+  background-color: beige;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.nav1 {
+  text-decoration: none;
+  position: relative;
+  left: 130px;
+  top: 20px;
+  background-color: burlywood;
+}
+.nav2 {
+  text-decoration: none;
+  position: relative;
+  left: 180px;
+  top: 20px;
+  background-color: burlywood;
+}
+
+.nav3 {
+  text-decoration: none;
+  position: relative;
+  left: 230px;
+  top: 20px;
+  background-color: burlywood;
+}
+
+.logo {
+  width: 10%;
+  background-color: burlywood;
+  position: fixed;
+  padding-right: 65%;
+}
+
+.menuicon {
+  width: 6%;
+  position: absolute;
+  left: 91%;
+  top: 3%;
+}
+
+p {
+  width: 56%;
+  line-height: 10%;
+  z-index: 2;
+  position: absolute;
+  top: 25%;
+  left: 21%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 5vw;
+  background-color: burlywood;
+}
+
+.logo2 {
+  width: 30%;
+  height: 60%;
+  background-color: burlywood;
+  position: absolute;
+  top: 20%;
+  left: 11%;
+  padding-left: 49%;
+  padding-top: 11%;
+  z-index: 1;
+  border-radius: 8%;
+}
+
+.buynow {
+  width: 56%;
+  line-height: 10%;
+  position: absolute;
+  top: 60%;
+  left: 13%;
+  z-index: 3;
+  background-color: burlywood;
+  font-size: 3vw;
+}
