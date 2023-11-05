@@ -1,0 +1,50 @@
+@media (min-width: 576px) {
+    .logo{
+        width: 5%;
+        height: 5%;
+    }
+    .logo2{
+        width: 30%;
+        height: 40%;
+    }
+    .buynow{
+        width: 56%;
+    line-height: 10%;
+    position: absolute;
+    top: 55%;
+    left: 13%;
+   
+    }
+}
+
+
+@media only screen 
+    and (device-width : 375px) 
+    and (device-height : 812px) 
+    and (-webkit-device-pixel-ratio : 3)
+    and (orientation : portrait)  { 
+        .logo{
+            width: 3%;
+            height: 2%;
+        }
+        .logo2{
+            width: 30%;
+            height: 20%;
+        }
+        .buynow{
+            width: 56%;
+        line-height: 10%;
+        position: absolute;
+        top: 37%;
+        left: 13%;
+       
+        }
+        .premium{
+            position: absolute;
+            top: 180px;
+        }
+
+
+
+    }
+
